@@ -153,7 +153,8 @@ The project includes:
 
   ## Correlation Matrix
 
-![Correlation Matrix](images/correlation.png)
+![Correlation Matrix](<img width="1200" height="800" alt="Correlation Matrix" src="https://github.com/user-attachments/assets/c2c4d533-0334-4ad3-b4c8-11956a0286c7" />
+.png)
 
 ## Residual Plot
 
