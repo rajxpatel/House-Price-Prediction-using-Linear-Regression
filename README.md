@@ -159,14 +159,11 @@ The project includes:
 ## Residual Plot
 
 (<img width="800" height="600" alt="ResidualPlot" src="https://github.com/user-attachments/assets/55ff6d40-826b-4055-badd-754ede04a62c" />
-.png)
+
 
 ## Actual vs Predicted Plot
 
 (<img width="800" height="600" alt="Actual_vs_Predicted" src="https://github.com/user-attachments/assets/025bdec0-04fe-44b8-b060-09f872127bc4" />
-
-.png)
-
 
 
 ## ⭐ If you found this project useful, consider giving it a star.
