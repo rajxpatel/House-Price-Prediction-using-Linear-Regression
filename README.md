@@ -153,16 +153,19 @@ The project includes:
 
   ## Correlation Matrix
 
-![Correlation Matrix](<img width="1200" height="800" alt="Correlation Matrix" src="https://github.com/user-attachments/assets/c2c4d533-0334-4ad3-b4c8-11956a0286c7" />
-.png)
+(<img width="1200" height="800" alt="Correlation Matrix" src="https://github.com/user-attachments/assets/c2c4d533-0334-4ad3-b4c8-11956a0286c7" />
+
 
 ## Residual Plot
 
-![Residual Plot](images/residual_plot.png)
+(<img width="800" height="600" alt="ResidualPlot" src="https://github.com/user-attachments/assets/55ff6d40-826b-4055-badd-754ede04a62c" />
+.png)
 
 ## Actual vs Predicted Plot
 
-![Actual vs Predicted](images/actual_vs_predicted.png)
+(<img width="800" height="600" alt="Actual_vs_Predicted" src="https://github.com/user-attachments/assets/025bdec0-04fe-44b8-b060-09f872127bc4" />
+
+.png)
 
 
 
