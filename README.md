@@ -151,19 +151,30 @@ The project includes:
 - Residual Plot
 - Actual vs Predicted Plot
 
+
+
+  ## Histograms
+<img width="1200" height="800" alt="Distribution of Numerical Variables" src="https://github.com/user-attachments/assets/c6ad2a0d-c500-456d-a2f2-9c1a023527a5" />
+
+  ## Scatter Plots
+  <img width="1500" height="1000" alt="features_plot" src="https://github.com/user-attachments/assets/80ce0ce0-b2d1-48dc-8f19-3986a35112da" />
+
+  ## Box Plots
+  <img width="2000" height="1000" alt="boxplots" src="https://github.com/user-attachments/assets/d15dcea7-1336-4029-8908-88aec8dda39a" />
+
   ## Correlation Matrix
 
-(<img width="1200" height="800" alt="Correlation Matrix" src="https://github.com/user-attachments/assets/c2c4d533-0334-4ad3-b4c8-11956a0286c7" />
+<img width="1200" height="800" alt="Correlation Matrix" src="https://github.com/user-attachments/assets/c2c4d533-0334-4ad3-b4c8-11956a0286c7" />
 
 
 ## Residual Plot
 
-(<img width="800" height="600" alt="ResidualPlot" src="https://github.com/user-attachments/assets/55ff6d40-826b-4055-badd-754ede04a62c" />
+<img width="800" height="600" alt="ResidualPlot" src="https://github.com/user-attachments/assets/55ff6d40-826b-4055-badd-754ede04a62c" />
 
 
 ## Actual vs Predicted Plot
 
-(<img width="800" height="600" alt="Actual_vs_Predicted" src="https://github.com/user-attachments/assets/025bdec0-04fe-44b8-b060-09f872127bc4" />
+<img width="800" height="600" alt="Actual_vs_Predicted" src="https://github.com/user-attachments/assets/025bdec0-04fe-44b8-b060-09f872127bc4" />
 
 
 ## ⭐ If you found this project useful, consider giving it a star.
