@@ -1,6 +1,6 @@
 # 🏡 House Price Prediction using Multiple Linear Regression
 
-## 📌 Project Overview
+##  Project Overview
 
 This project develops a Multiple Linear Regression model to predict house prices based on various housing characteristics. The project follows a complete machine learning workflow including data exploration, preprocessing, model development, evaluation, and statistical diagnostics.
 
@@ -8,7 +8,7 @@ The objective is not only to build a predictive model but also to understand how
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Perform Exploratory Data Analysis (EDA)
 - Analyze the distribution of housing variables
@@ -23,7 +23,7 @@ The objective is not only to build a predictive model but also to understand how
 
 ---
 
-## 📊 Dataset Information
+## Dataset Information
 
 The dataset contains **545 residential houses** with **13 variables**.
 
@@ -48,7 +48,7 @@ The dataset contains **545 residential houses** with **13 variables**.
 
 ---
 
-## 🛠️ Technologies Used
+##  Libraries Used
 
 - Python
 - Pandas
@@ -72,7 +72,7 @@ The following analyses were performed:
 
 ---
 
-## ⚙️ Data Preprocessing
+##  Data Preprocessing
 
 - Checked missing values
 - Converted categorical variables using One-Hot Encoding
@@ -80,7 +80,7 @@ The following analyses were performed:
 
 ---
 
-## 🤖 Model Used
+## Model Used
 
 **Multiple Linear Regression**
 
@@ -88,7 +88,7 @@ The model was trained using Scikit-learn's `LinearRegression()`.
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 
 | Metric | Value |
 |---------|--------|
@@ -100,7 +100,7 @@ The model explains approximately **65%** of the variation in house prices on the
 
 ---
 
-## 📑 Statistical Analysis (OLS Regression)
+## Statistical Analysis (OLS Regression)
 
 OLS regression was performed using the Statsmodels library.
 
@@ -126,7 +126,7 @@ OLS regression was performed using the Statsmodels library.
 
 ---
 
-## 📉 Model Diagnostics
+## Model Diagnostics
 
 The following diagnostic analyses were performed:
 
@@ -140,7 +140,7 @@ All predictor variables have VIF values below **2**, indicating that multicollin
 
 ---
 
-## 📷 Visualizations
+## Visualizations
 
 The project includes:
 
@@ -151,50 +151,6 @@ The project includes:
 - Residual Plot
 - Actual vs Predicted Plot
 
----
 
-## 📂 Project Structure
-
-```
-House-Price-Prediction-Linear-Regression
-│
-├── Housing.csv
-├── House_Price_Prediction.ipynb
-├── README.md
-├── requirements.txt
-│
-├── images
-│   ├── distribution.png
-│   ├── scatterplots.png
-│   ├── boxplots.png
-│   ├── correlation.png
-│   ├── residual_plot.png
-│   └── actual_vs_predicted.png
-```
-
----
-
-## 🚀 Future Improvements
-
-- Ridge Regression
-- Lasso Regression
-- Decision Tree Regression
-- Random Forest Regression
-- XGBoost
-- Hyperparameter Tuning
-- Feature Selection
-- Streamlit Web Application
-
----
-
-## 👨‍💻 Author
-
-**Raj Patel**
-
-M.Sc. Statistics
-
-Indian Institute of Technology Kanpur
-
----
 
 ## ⭐ If you found this project useful, consider giving it a star.
