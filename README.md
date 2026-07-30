@@ -151,6 +151,18 @@ The project includes:
 - Residual Plot
 - Actual vs Predicted Plot
 
+  ## Correlation Matrix
+
+![Correlation Matrix](images/correlation.png)
+
+## Residual Plot
+
+![Residual Plot](images/residual_plot.png)
+
+## Actual vs Predicted Plot
+
+![Actual vs Predicted](images/actual_vs_predicted.png)
+
 
 
 ## ⭐ If you found this project useful, consider giving it a star.
