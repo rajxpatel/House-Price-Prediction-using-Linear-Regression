@@ -1,4 +1,4 @@
-# 🏡 House Price Prediction using Multiple Linear Regression
+# House Price Prediction using Multiple Linear Regression
 
 ##  Project Overview
 
